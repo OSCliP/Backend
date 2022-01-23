@@ -1,0 +1,29 @@
+{
+  "name": "osclip-backend",
+  "version": "1.0.0",
+  "description": "The Backend for the OSCliP services. This hosts all the callbacks that the APIs make to interact with the server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OSCliP/Backend.git"
+  },
+  "keywords": [
+    "climb",
+    "osclip",
+    "api",
+    "sdk",
+    "tools",
+    "backend",
+    "database",
+    "wiki"
+  ],
+  "author": "Arnau Mora",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/OSCliP/Backend/issues"
+  },
+  "homepage": "https://github.com/OSCliP/Backend#readme"
+}
